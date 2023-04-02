@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+
+.header img {
+    width: 111.38px;
+    height: 13.88px;
+}
+
+
+.Turning-Accounts h1 {
+    font-weight: 500;
+    font-size: 90px;
+    line-height: 100px;
+    font-family: 'Graphik';
+    color: #212024;
+}
+.Turning-Accounts .images img {
+    width: 360px;
+    height: 360px;
+}
+.Turning-Accounts .images .third-img {
+    width: 317px;
+    height: 686.07px;
+}
+
+
+.We-always {
+    background: linear-gradient(360deg, #40301B 0%, #2B2014 100%);
+    column-gap: 120px;
+}
+
+.The-numbers .blok {
+    width: 350px;
+}
+
+.Where-IG {
+    column-gap: 119px;
+    background: #FAF4E8;
+}
+
+/* .card1-header {
+    width: 480px;
+}
+.card1-header img {
+    border-radius: 22px;
+    width: 60px;
+    height:60px;
+}
+.card1-header .list h5 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+.card1-header .list h6 {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+}
+.card1-header .img-big {
+    width: 100px;
+    height: 395px;
+} */
+
+
+
+.Where-artists .image-one {
+    align-items: flex-end;
+}
+.Where-artists .image-one .imgOne {
+    width: 170px;
+    height: 170px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.Where-artists .div-one {
+    background-color: #6F4D08;
+    width: 450px;
+    height: 480px;
+    margin: 0 10px;
+}
+.Where-artists .div-one p {
+    font-size: 28px;
+    line-height: 36px;
+}
+.Where-artists .image-one .imgTwo {
+    width: 450px;
+    height: 432px;
+    margin: 0 10px;
+}
+.Where-artists .image-one .imgThree {
+    width: 380px;
+    height: 300px;
+    margin-left: 10px;
+}
+
+
+.Where-artists .image-two {
+    align-items: flex-start;
+}
+.Where-artists .image-two .imgOne {
+    width: 490px;
+    height: 370px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.Where-artists .div-two {
+    background-color: #FAF4E8;
+    width: 450px;
+    height: 500px;
+    margin: 0 10px;
+}
+.Where-artists .div-two p {
+    color: #6F4D08;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+}
+.Where-artists .image-two .imgTwo {
+    width: 340px;
+    height: 236px;
+    margin: 0 10px;
+}
+.Where-artists .image-two .imgThree {
+    width: 170px;
+    height: 170px;
+    margin-left: 10px;
+}
+
+.Where-artists .image-one .div-one .girl img {
+    width: 44px;
+    height: 44px;
+}
+
+.Where-artists .image-two .div-two .girl img {
+    width: 44px;
+    height: 44px;
+}
+
+.Since-2009 .block {
+    width: 262px;
+}
+
+.chiziq {
+    background: #212024;
+    mix-blend-mode: normal;
+    opacity: 0.2;
+    border-radius: 1px;
+    width: 1080px;
+    height: 2px;
+}
+
+.company-images img {
+    width: 170px;
+}
+
+.Let’s-stay {
+   background-color: #FAF4E8; 
+}
+
+
+footer {
+    background: #212024;
+    border-radius: 1px;
+}
+footer .leftSide img {
+    width: 44px;
+    height: 44px;
+}
+
+footer .line-oq {
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.2;
+    border-radius: 1px;
+    width: 1080px;
+    height: 1px;
+}
+
+footer .leftSide .logo {
+    width: 165px;
+    height: 308px;
+}
